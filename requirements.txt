@@ -1,0 +1,9 @@
+grpcio>=1.60.0
+grpcio-tools>=1.60.0
+protobuf>=4.25.0
+redis>=5.0.0
+prometheus-client>=0.20.0
+locust>=2.16.0
+pytest>=7.4.0
+pytest-asyncio>=0.23.0
+
